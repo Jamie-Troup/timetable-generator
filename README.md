@@ -1,6 +1,6 @@
 ## What is it?
 
-This tool generates a timetable parameterised by the user. I made it for a textbook I was working through so that I would know how long it would take to complete its questions. It could probably be generalised relatively easily to tasks, however now it is suited to book questions.
+This tool generates a timetable parameterised by the user. I made it for a textbook I was working through so that I would know how long it would take to complete its questions. It could probably be generalised relatively easily to tasks, however now it can only handle book questions.
 
 ## How does it work?
 
